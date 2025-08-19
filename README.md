@@ -1,13 +1,12 @@
 # Image Analysis AI Model - Product Descriptions
 
-**Software Engineer Intern Project**
 
 This repository showcases a generative AI model built with **Google Cloud Vertex AI** to analyze product images and automatically generate:  
 - Short descriptive lines highlighting materials, colors, and intended use  
 - Catchy marketing phrases for social media  
 - Poetic, nature-inspired descriptions that evoke mood and scene  
 
-The project demonstrates skills in **Python, AI/ML workflows, cloud-based AI APIs, and Jupyter Notebooks**, reflecting real-world product-focused AI applications.
+Technologies - **Python, AI/ML workflows, cloud-based AI APIs, and Jupyter Notebooks**
 
 ---
 
